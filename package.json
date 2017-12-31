@@ -1,4 +1,4 @@
-,
+,,
 {
   "name": "plectron",
   "productName": "Plectron",
@@ -28,7 +28,8 @@
   ],
   "dependencies": {
     "electron-debug": "^0.5.0",
-    "electron-chromecast": "1.1.0"
+    "electron-chromecast": "1.1.0",
+    "mdns": "https://github.com/agnat/node_mdns/tarball/master"
   },
   "devDependencies": {
     "electron-packager": "^5.0.0",
